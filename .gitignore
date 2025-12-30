@@ -1,0 +1,17 @@
+# Build outputs
+build/
+
+# CMake artifacts (in case generated in-source)
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Crash dumps
+core
+core.*
+
+# Editor/OS
+*.swp
+*.swo
+.DS_Store

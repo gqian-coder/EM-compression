@@ -1,0 +1,1 @@
+./mgard_4dStem ../../Spectrum_Image_data_reorder_256x256x256x256.bin -1 -1 0.1 4
